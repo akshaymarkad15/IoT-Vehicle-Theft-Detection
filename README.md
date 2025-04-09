@@ -15,7 +15,7 @@ This project is designed to detect vehicle theft and allow remote engine locking
 - **IoT Dashboard** (For remote monitoring)  
 
 ## 📷 Project Overview  
-![Project Image]([link-to-image](https://drive.google.com/file/d/18q6JAaPo_-sGoDcqaJZjCJhKr0IAHZ4R/view?usp=sharing))  
+![Project Image](https://drive.google.com/file/d/18q6JAaPo_-sGoDcqaJZjCJhKr0IAHZ4R/view?usp=sharing)  
 
 ## 🚀 How It Works  
 1️⃣ If unauthorized access is detected, the system activates an **alarm**.  
